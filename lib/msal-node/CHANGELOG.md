@@ -1,8 +1,21 @@
 # Change Log - @azure/msal-node
 
-This log was last generated on Mon, 30 Oct 2023 21:38:25 GMT and should not be manually modified.
+This log was last generated on Mon, 06 Nov 2023 23:22:13 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.5.0
+
+Mon, 06 Nov 2023 23:22:13 GMT
+
+### Minor changes
+
+- Convert ServerTelemetryEntity to Type instead of Class #6651 (thomas.norling@microsoft.com)
+- Bump @azure/msal-common to v14.4.0
+
+### Patches
+
+- Use new query string parser in LoopbackClient #6646 (thomas.norling@microsoft.com)
 
 ## 2.4.0
 
